@@ -1,5 +1,8 @@
 # launchbar
 
+## Node version
+16.14.0
+
 ## Project setup
 ```
 npm install
