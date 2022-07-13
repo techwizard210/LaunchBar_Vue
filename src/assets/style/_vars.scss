@@ -1,0 +1,35 @@
+$black: #3E3E3E;
+$grey: #9E9EA7;
+$grey-light: #C0C0C0;
+$grey-bg: #F9F8FD;
+$pink: #EA4C89;
+$blue: #4CA8EA;
+
+:root{
+  --black: #3E3E3E;
+  --grey: #9E9EA7;
+  --grey-light: #C0C0C0;
+  --grey-bg: #F9F8FD;
+  --pink: #EA4C89;
+  --blue: #4CA8EA;
+  
+  --main-bg: #15151B;
+
+  --yellow: #F6A630;
+  --text: #fff;
+  --block-bg: #212132;
+}
+
+[data-theme="light"]{
+  --black: #FFFFFF;
+  --grey-bg: #1D1625;
+  --grey-light: #C0C0C0;
+  --grey: #9E9EA7;
+  --pink: #E145EF;
+  --blue: #4CA8EA;
+
+  --main-bg: #F3F3F7;
+  --block-bg: #E0E0F2;
+
+  --text: #6333FF;
+}
